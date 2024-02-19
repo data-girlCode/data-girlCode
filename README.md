@@ -30,6 +30,10 @@
    <img alt="Numpy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40">
   </a>   
   &emsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/python-original-wordmark.svg" width="40" height="40">
+  </a> 
+  &emsp;
   <a href="https://pandas.pydata.org/" target="_blank">
     <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40">
   </a> 
