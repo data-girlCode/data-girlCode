@@ -123,19 +123,19 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img alt="Datagirl's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulraqib20&show_icons=true&count_private=true&theme=algolia&hide=contribs" />
+  <img alt="Datagirl's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=data-girlCode&show_icons=true&count_private=true&theme=algolia&hide=contribs" />
   <br/>
-  <img alt="Raqib's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulraqib20&theme=algolia" />
+  <img alt="Raqib's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=data-girlCode&theme=algolia" />
 </p>
 <br/>
 :trophy: Git Profile Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulraqib20&theme=algolia" alt="Abdulraqib20's Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=data-girlCode&theme=algolia" />
 </p>
 
 -----
-Edited By: [raqibcodes](https://github.com/Abdulraqib20)
+Edited By: [data-girlcode](https://github.com/data-girlCode)
 
 
  <!--
