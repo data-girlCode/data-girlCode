@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sharon-alawode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulraqib omotosho" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/datagirlcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alawode sharon" height="30" width="40" /></a>
-<a href="https://twitter.com/_MOfiyinfoluwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_MOfiyinfoluwa" height="30" width="40" /></a>
+<a href="https://twitter.com/_MOfiyinfoluwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_MOfiyinfoluwa" height="30" width="40" /></a>
 </p> <br>
  
 <!--
