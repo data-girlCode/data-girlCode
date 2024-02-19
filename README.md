@@ -88,6 +88,22 @@
 </a>
 </p>
 
+### 💻 IDEs
+<p align="left">
+  &emsp;
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm" width="40" height="40"/>
+  </a>
+  &emsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/>
+   &emsp;
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"></a>
+	&emsp;	
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+  </a>
+</p>
+
  <!--
 **data-girlCode/data-girlCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
