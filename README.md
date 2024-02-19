@@ -18,6 +18,28 @@
 </p> <br>
 
  ## 🛠️ My Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+ ### 👩‍💻 Data Science and Machine Learning 
+<p align="left"> 
+  &emsp; 
+  <a href="https://numpy.org/" target="_blank"> 
+   <img alt="Numpy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40">
+  </a>   
+  &emsp;
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40">
+  </a> 
+  &emsp; 
+  <a href="https://matplotlib.org/" target="_blank"> 
+   <img alt="Matplotlib Logo" src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40">
+  </a>  
+  &emsp; 
+  <a href="https://seaborn.pydata.org/" target="_blank"> 
+   <img alt="Seaborn Logo" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40">
+  </a>
+  &emsp; 
+  <a href="https://scikit-learn.org/" target="_blank"> 
+   <img alt="Scikit-learn Logo" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40">
+  </a>
 <!--
 **data-girlCode/data-girlCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
