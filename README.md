@@ -6,7 +6,7 @@
  - 🔭 I’m currently working on projects applying my knowledge of **Machine Learning**.
 - 🌱 I’m currently learning **Data analytics, exploratory data analysis, and the branches of AI which are Machine learning, and deep learning with Python**.
 - 👯  I’m looking to collaborate on **Machine Learning and Data Science projects**.
-- 💬 Ask me anything about my journey in **Data Science**.
+- 💬 Ask me anything about my journey in **Python and Machine Learning**.
 - 📫 How to reach me: **sharoncodesdata@gmail.com**
 - 😄 : Pronoun: she/her
 - ⚡ Fun fact: ... I love adventures
