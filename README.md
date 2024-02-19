@@ -131,7 +131,7 @@
 :trophy: Git Profile Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=data-girlCode&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=data-girlCode&theme=algolia" alt="Datagirl's Trophies" />
 </p>
 
 -----
