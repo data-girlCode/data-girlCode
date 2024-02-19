@@ -16,7 +16,8 @@
 <a href="https://www.kaggle.com/datagirlcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alawode sharon" height="30" width="40" /></a>
 <a href="https://twitter.com/_MOfiyinfoluwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_MOfiyinfoluwa" height="30" width="40" /></a>
 </p> <br>
- 
+
+ ## 🛠️ My Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 <!--
 **data-girlCode/data-girlCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
