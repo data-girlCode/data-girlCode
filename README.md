@@ -49,7 +49,7 @@
   </a>
  &emsp;
  <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/lookerstudio/lookerstudio-icon.svg" alt="Power BI" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/lookerstudio/lookerstudio-icon.svg" alt="Looker studio" width="40" height="40"/>
   &emsp;
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
