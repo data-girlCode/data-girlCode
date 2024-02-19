@@ -1,4 +1,5 @@
-<h1 align="center">🤟 Hi, I'm Alawode Sharon </h1>
+<h1 align="center">👋 Hi, I'm Alawode Sharon </h1>
+<h3 align="center">An aspiring ML Engineer and a Data Scientist</h3>
 
  I go by various nicknames, and one of my favorites is DATA GIRL, a quirky tech-inspired alias I came up with. As a passionate Data Analyst, I excel in leveraging tools like Excel, Power BI, SQL, and Python to derive insights from data. 
 
