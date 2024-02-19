@@ -1,7 +1,11 @@
 <h1 align="center">👋 Hi, I'm Alawode Sharon </h1>
 <h3 align="center">An aspiring ML Engineer and a Data Scientist</h3>
 
- I go by various nicknames, and one of my favorites is DATA GIRL, a quirky tech-inspired alias I came up with. As a passionate Data Analyst, I excel in leveraging tools like Excel, Power BI, SQL, and Python to derive insights from data.                                                                                                                                                                    
+ I go by various nicknames, and one of my favorites is DATA GIRL, a quirky tech-inspired alias I came up with. As a passionate Data Analyst, I excel in leveraging tools like Excel, Power BI, SQL, and Python to derive insights from data.   
+ 
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Datagirlcodes&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>                                 
  - 🔭 I’m currently working on projects applying my knowledge of **Machine Learning**.
 - 🌱 I’m currently learning **Data analytics, exploratory data analysis, and the branches of AI which are Machine learning, and deep learning with Python**.
 - 👯  I’m looking to collaborate on **Machine Learning and Data Science projects**.
@@ -111,6 +115,24 @@
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
   </a>
 </p>
+
+## 📈 GitHub Stats
+<p align="center">
+  <img alt="Datagirl's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulraqib20&show_icons=true&count_private=true&theme=algolia&hide=contribs" />
+  <br/>
+  <img alt="Raqib's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulraqib20&theme=algolia" />
+</p>
+<br/>
+:trophy: Git Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulraqib20&theme=algolia" alt="Abdulraqib20's Trophies" />
+</p>
+
+-----
+Edited By: [raqibcodes](https://github.com/Abdulraqib20)
+
+
  <!--
 **data-girlCode/data-girlCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
