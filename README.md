@@ -104,6 +104,13 @@
   </a>
 </p>
 
+### 🎨 Design Tools
+<p align="left">
+  &emsp;
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+  </a>
+</p>
  <!--
 **data-girlCode/data-girlCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
