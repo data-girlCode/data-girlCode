@@ -5,7 +5,8 @@
  
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Datagirlcodes&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>                                 
+</a>       
+
  - 🔭 I’m currently working on projects applying my knowledge of **Machine Learning**.
 - 🌱 I’m currently learning **Data analytics, exploratory data analysis, and the branches of AI which are Machine learning, and deep learning with Python**.
 - 👯  I’m looking to collaborate on **Machine Learning and Data Science projects**.
