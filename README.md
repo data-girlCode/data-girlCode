@@ -3,13 +3,21 @@
 
  I go by various nicknames, and one of my favorites is DATA GIRL, a quirky tech-inspired alias I came up with. As a passionate Data Analyst, I excel in leveraging tools like Excel, Power BI, SQL, and Python to derive insights from data. 
 
+<p align="left"> <img src="https://giphy.com/embed/8qrrHSsrK9xpknGVNF" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-cartoon-robot-8qrrHSsrK9xpknGVNF">via GIPHY</a></p> alt=""/></p><iframe                                                                                                                                                                    
  - 🔭 I’m currently working on projects applying my knowledge of **Machine Learning**.
 - 🌱 I’m currently learning **Data analytics, exploratory data analysis, and the branches of AI which are Machine learning, and deep learning with Python**.
 - 👯  I’m looking to collaborate on **Machine Learning and Data Science projects**.
 - 💬 Ask me anything about my journey in **Python and Machine Learning**.
 - 📫 How to reach me: **sharoncodesdata@gmail.com**
-- 😄 : Pronoun: she/her
+- 😄 : Pronoun: **She/Her**
 - ⚡ Fun fact: ... I love adventures
+
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdulraqib omotosho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulraqib omotosho" height="30" width="40" /></a>
+<a href="https://kaggle.com/abdulraqib omotosho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulraqib omotosho" height="30" width="40" /></a>
+<a href="https://medium.com/@abdulraqibshakir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulraqibshakir" height="30" width="40" /></a>
+</p> <br>
 <!--
 **data-girlCode/data-girlCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
