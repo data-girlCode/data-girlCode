@@ -40,7 +40,24 @@
   <a href="https://scikit-learn.org/" target="_blank"> 
    <img alt="Scikit-learn Logo" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40">
   </a>
-<!--
+
+### 💹 Business Intelligence (BI) Tools
+<p align="left">
+  &emsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
+  </a>
+ &emsp;
+ <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
+   <img src="https://www.vectorlogo.zone/logos/lookerstudio/lookerstudio-icon.svg" alt="Power BI" width="40" height="40"/>
+  &emsp;
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+  </a>
+</p>
+ 
+ 
+ <!--
 **data-girlCode/data-girlCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
