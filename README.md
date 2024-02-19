@@ -76,6 +76,18 @@
   </a>
 </p>
 
+### 📈 Spreadsheets (Excel and Google Sheets)
+<p align="left">
+  &emsp;
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://www.google.com/images/icons/product/excel-2020-72dp.png" alt="Microsoft Excel" width="40" height="40"/>
+</a>
+  &emsp;
+  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
+  <img src="https://www.google.com/images/icons/product/sheets-2020-72dp.png" alt="Google Sheets" width="20" height="20"/>
+</a>
+</p>
+
  <!--
 **data-girlCode/data-girlCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
