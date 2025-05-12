@@ -7,10 +7,10 @@
   <img src="https://visitcount.itsvg.in/api?id=Datagirlcodes&label=Profile%20Views&color=0&icon=5&pretty=false" />
 </a>       
 
- - 🔭 I’m currently working on projects applying my knowledge of **Machine Learning**.
+ - 🔭 I’m currently working on projects applying my knowledge of **Data analytics and Machine Learning**.
 - 🌱 I’m currently learning **Data analytics, exploratory data analysis, and the branches of AI which are Machine learning, and deep learning with Python**.
-- 👯  I’m looking to collaborate on **Machine Learning and Data Science projects**.
-- 💬 Ask me anything about my journey in **Python and Machine Learning**.
+- 👯  I’m looking to collaborate on **Data analytics, data science, and Machine Learning projects**.
+- 💬 Ask me anything about my journey in **Data**.
 - 📫 How to reach me: **sharoncodesdata@gmail.com**
 - 😄 : Pronoun: **She/Her**
 - ⚡ Fun fact: ... I love adventures
