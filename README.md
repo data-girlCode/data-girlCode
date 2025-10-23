@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hi, I'm Alawode Sharon </h1>
 <h3 align="center">A ML Engineer </h3>
 
- I go by various nicknames, and one of my favorites is DATA GIRL, a quirky tech-inspired alias I came up with. As a passionate Data Analyst/Scientist, I specialize in leveraging tools like Excel, Power BI, SQL, and Python to derive insights from data.   
+ I go by various nicknames, and one of my favorites is DATA GIRL, a quirky tech-inspired alias I came up with. As a passionate ML Engineer, I specialize in leveraging tensorflow, spacy, NLTK and Python to derive insights from data.   
  
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Datagirlcodes&label=Profile%20Views&color=0&icon=5&pretty=false" />
 </a>       
 
- - 🔭 I’m currently working on projects applying my knowledge of **Data analytics and Machine Learning**.
-- 🌱 I’m currently learning **Data analytics, exploratory data analysis, and the branches of AI which are Machine learning, and deep learning with Python**.
-- 👯  I’m looking to collaborate on **Data analytics, data science, and Machine Learning projects**.
+ - 🔭 I’m currently working on projects applying my knowledge of **Natural Language Processing**.
+- 🌱 I’m currently learning **Machine learning, and deep learning with Python**.
+- 👯  I’m looking to collaborate on **Machine Learning projects**.
 - 💬 Ask me anything about my journey in **Data**.
 - 📫 How to reach me: **sharoncodesdata@gmail.com**
 - 😄 : Pronoun: **She/Her**
