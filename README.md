@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Alawode Sharon </h1>
-<h3 align="center">A ML Engineer </h3>
+<h3 align="center">A AI/ML Engineer </h3>
 
- I go by various nicknames, and one of my favorites is DATA GIRL, a quirky tech-inspired alias I came up with. As a passionate ML Engineer, I specialize in leveraging tensorflow, spacy, NLTK and Python to derive insights from data.   
+ I go by various nicknames, and one of my favorites is DATA GIRL, a quirky tech-inspired alias I came up with. As a passionate ML Engineer, I specialize in leveraging TensorFlow, Spacy, NLTK, and Python to derive insights from data.   
  
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Datagirlcodes&label=Profile%20Views&color=0&icon=5&pretty=false" />
